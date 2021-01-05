@@ -1,6 +1,6 @@
 ---
 title: "Incident analysis based on MITRE standards"
-author: "Humbert Costas"
+author: "H Costas"
 date: "20/12/2020"
 output: html_document
 ---
